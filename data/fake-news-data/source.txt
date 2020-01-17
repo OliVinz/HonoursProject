@@ -1,0 +1,3 @@
+https://www.kaggle.com/antmarakis/fake-news-data/data
+
+1 csv file deteled -> too large + no labels
