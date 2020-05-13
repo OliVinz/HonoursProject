@@ -2,8 +2,8 @@
 Honours Project - Fake News Detection
 
 If you want to view the source code and the respective outputs/ results:
-	-> open Honours Project - Fake News Detection.html
-	     or Honours Project - Fake News Detection.pdf
+-> open Honours Project - Fake News Detection.html
+or Honours Project - Fake News Detection.pdf
 
 If you want to run the code:
 	-> download/ install Anaconda (Python 3.7) -> https://www.anaconda.com/distribution/#download-section
